@@ -19,16 +19,16 @@
 
 ##### POST:
 
-![alt text](screenshots/post_1.jpg 'POST')
+![post](https://user-images.githubusercontent.com/56413498/104742184-32272a00-575b-11eb-8380-4cad7cb8924d.jpg)
 
 ##### PUT:
 
-![alt text](screenshots/put_1.jpg 'PUT')
+![PUT](https://user-images.githubusercontent.com/56413498/104742375-67cc1300-575b-11eb-91d3-4249b5b887c6.jpg)
 
 ##### PATCH:
 
-![alt text](screenshots/patch_1.jpg 'PATCH')
+![PATCH](https://user-images.githubusercontent.com/56413498/104742395-6d295d80-575b-11eb-989f-635ac8f7c99c.jpg)
 
 ##### GET:
 
-![alt text](screenshots/get_1.jpg 'GET')
+![GET](https://user-images.githubusercontent.com/56413498/104742412-7286a800-575b-11eb-9b88-875cc31293ef.jpg)
